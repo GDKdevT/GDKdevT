@@ -4,7 +4,7 @@
   I'm 24 and curretly studying to become a Software Developer at Trybe, currently my I'm focusing on back-end with Node.JS, Express, Socket.io and more. In the near  future I intend on learning Python and AI/Machine Learning
 </p>
 
-<h3>Schools of magic</h3>
+<h3>Usually code with:</h3>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
