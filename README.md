@@ -30,5 +30,5 @@
  </ul>
  
  <h3>Pretty numbers</h3>
- <img src="https://github-readme-stats.vercel.app/api?username=GDKdevT&count_private=true&theme=dracula" height="300px" width="500px" />
+ <img src="https://github-readme-stats.vercel.app/api?username=GDKdevT&count_private=true&theme=dracula&layout=compact" height="300px" width="500px" />
  
